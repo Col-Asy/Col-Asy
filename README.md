@@ -89,11 +89,11 @@ Here are some ideas to get you started:
 ### ✨ Fun & Unique Effects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-username&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Col-Asy&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-username&theme=radical" alt="Ayush's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Col-Asy&theme=radical" alt="Ayush's GitHub streak" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-username&theme=radical&column=7" alt="Ayush's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Col-Asy&theme=radical&column=7" alt="Ayush's GitHub trophies" />
 </p>
 
 ---
